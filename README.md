@@ -28,4 +28,4 @@ And finally having fun!!!
 # Contact
 Phuong-Truc Huynh Luong - [@Facebook](https://www.facebook.com/hlptruc) - huynhtruc0309@gmail.com
 
-Project Link: https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions
+Project Link: https://github.com/huynhtruc0309/May-LeetCoding-Challenge

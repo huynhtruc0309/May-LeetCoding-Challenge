@@ -26,6 +26,6 @@ And finally having fun!!!
 5. [Majority Element](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%201%20May%201st%20to%20May%207th/majorityElement.cpp)
 
 # Contact
-Phuong-Truc Huynh Luong - @Facebook - huynhtruc0309@gmail.com
+Phuong-Truc Huynh Luong - [@Facebook](https://www.facebook.com/hlptruc) - huynhtruc0309@gmail.com
 
 Project Link: https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions

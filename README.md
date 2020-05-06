@@ -23,7 +23,7 @@ And finally having fun!!!
 3. [Ransom Note](https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions/blob/master/Week%201%20April%201st%20to%20April%207th/singleNumber.cpp)
 4. [Number Complement](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%201%20May%201st%20to%20May%207th/numberComplement.cpp)
 5. [First Unique Character in a String](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%201%20May%201st%20to%20May%207th/firstUniqueCharacterInAString.cpp)
-5. [Majority Element](https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions/blob/master/Week%201%20April%201st%20to%20April%207th/singleNumber.cpp)
+5. [Majority Element](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%201%20May%201st%20to%20May%207th/majorityElement.cpp)
 
 # Contact
 Phuong-Truc Huynh Luong - @Facebook - huynhtruc0309@gmail.com

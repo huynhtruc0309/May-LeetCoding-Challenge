@@ -1,4 +1,4 @@
-# May-LeetCoding-Challenge
+# May LeetCoding Challenge Solution
 <div style="text-align:center"><img src="https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/images/logo.png" /></div>
 
 # Introduction

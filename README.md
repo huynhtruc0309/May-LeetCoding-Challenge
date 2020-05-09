@@ -23,8 +23,9 @@ And finally having fun!!!
 3. [Ransom Note](https://github.com/huynhtruc0309/30-Days-Leetcoding-Challenge-Solutions/blob/master/Week%201%20April%201st%20to%20April%207th/singleNumber.cpp)
 4. [Number Complement](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%201%20May%201st%20to%20May%207th/numberComplement.cpp)
 5. [First Unique Character in a String](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%201%20May%201st%20to%20May%207th/firstUniqueCharacterInAString.cpp)
-5. [Majority Element](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%201%20May%201st%20to%20May%207th/majorityElement.cpp)
-6. [Cousins in Binary Tree]()
+6. [Majority Element](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%201%20May%201st%20to%20May%207th/majorityElement.cpp)
+7. [Cousins in Binary Tree](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%201%20May%201st%20to%20May%207th/cousinsInBinaryTree.cpp)
+8. [Check If It Is a Straight Line](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%202%20May%208th%20May%2014th/checkIfItIsAStraightLine.cpp)
 
 # Contact
 Phuong-Truc Huynh Luong - [@Facebook](https://www.facebook.com/hlptruc) - huynhtruc0309@gmail.com

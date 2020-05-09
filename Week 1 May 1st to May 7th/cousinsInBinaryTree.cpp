@@ -39,7 +39,3 @@ public:
         
     }
 };
-//Dung bfs de ra duoc ds con cung 1 level
-// kiem tra ds xem co x y hay khong
-// neu duyet het ma khong co thi tra ve false
-// neu co thi kiem tra tiep x y co cung cha hay khong

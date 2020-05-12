@@ -27,7 +27,8 @@ And finally having fun!!!
 7. [Cousins in Binary Tree](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%201%20May%201st%20to%20May%207th/cousinsInBinaryTree.cpp)
 8. [Check If It Is a Straight Line](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%202%20May%208th%20May%2014th/checkIfItIsAStraightLine.cpp)
 9. [Valid Perfect Square](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%202%20May%208th%20May%2014th/validPerfectSquare.cpp)
-
+10. [Find the Town Judge](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%202%20May%208th%20May%2014th/findTheTownJudge.cpp)
+11. [Flood Fill](https://github.com/huynhtruc0309/May-LeetCoding-Challenge/blob/master/Week%202%20May%208th%20May%2014th/floodFill.cpp)
 # Contact
 Phuong-Truc Huynh Luong - [@Facebook](https://www.facebook.com/hlptruc) - huynhtruc0309@gmail.com
 
